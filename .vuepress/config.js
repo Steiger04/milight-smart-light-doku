@@ -5,6 +5,9 @@ module.exports = {
   description: 'Dokumentation für den milight-smart-light Adapter',
   dest: 'docs',
   base: '/milight-smart-light-doku/',
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   markdown: {
     extractHeaders: [ 'h2', 'h3', 'h4' ]
   },
