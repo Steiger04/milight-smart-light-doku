@@ -1,0 +1,19 @@
+{
+  "name": "mslfe-doku",
+  "version": "0.0.1",
+  "description": "Documentation for mslfe",
+  "main": "index.js",
+  "scripts": {
+    "doku:dev": "vuepress dev",
+    "doku:build": "vuepress build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress-plugin-medium-zoom": "^1.1.8"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
