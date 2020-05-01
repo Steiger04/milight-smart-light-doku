@@ -1,9 +1,9 @@
 # IoT - Alexa
-Hier erläutere ich kurz was zu tun ist, damit die Leuchtmittel einer Zone über Alexa gesteuert werden können.
+Hier erläutere ich kurz was zu tun ist, damit die Leuchtmittel einer Zone über **Alexa** gesteuert werden können.
 
 ## Raum und Gruppe(n)
-Wie bereits [hier](/admin/#raum-und-gruppe-n) erläutert, muß für eine funktionierende Alexa Steuerung zwingend eine
-Raum und Gruppen Zuordnung erfolgen.
+Wie bereits [hier](/admin/#raum-und-gruppe-n) erläutert, muss für eine funktionierende Alexa Steuerung zwingend eine
+Raum- und Gruppen Zuordnung erfolgen.
 
 ## Beispiel Grillplatz Licht
 In der [Zonenkonfiguration](/admin/#zonen) wurde die **Zone 6** wie folgt konfiguriert:
@@ -12,9 +12,9 @@ In der [Zonenkonfiguration](/admin/#zonen) wurde die **Zone 6** wie folgt konfig
 
 **Raum** ist also **Grillplatz** und **Gruppe** ist **Licht**!
 
-Ein Alexa Befehl könnte also lauten: **Alexa schalte Grillplatz Licht ein.**
+Ein **Alexa Befehl** könnte also lauten: **Alexa schalte Grillplatz Licht ein.**
 
-Damit dies funktioniert, muß in der **IoT Instanz** unter **INTELLIGENTE  AUFZÄHLUNGEN** folgende **Konfiguration**
+Damit dies funktioniert, muss in der **IoT Instanz** unter **INTELLIGENTE  AUFZÄHLUNGEN** folgende **Konfiguration**
 vorgenommen werden:
 
 <img :src="$withBase('/images/iot-intelligente-aufzaehlungen.png')" class="my-img">
@@ -25,7 +25,7 @@ Dies führt automatisch zu folgendem Eintrag unter **ALEXA GERÄTE**:
 
 <img :src="$withBase('/images/iot-alexa-geraete.png')" class="my-img">
 
-Damit ist die IoT Konfiguration für Alexa auch schon abgeschlossen!
+**Damit ist die IoT Konfiguration für Alexa auch schon abgeschlossen!**
 
 ::: warning HINWEISE
 1. Die States **hue** und **saturation** fehlen nicht, sondern werden **nicht** benötigt!
@@ -74,7 +74,7 @@ auf &lt;Farbton&gt;."<br>"Alexa, mache &lt;Licht&gt; &lt;Farbton&gt;."</p>
 + Lavendel
 
 ::: tip INFO
-Für die Farben Rot, Blau, Grün und Gelb funktionieren zusätzlich Abstufungen, die man z.B. durch den Befehl „Alexa,
-mache das Licht blauer“ aktiviert.
+Für die **Farben Rot, Blau, Grün und Gelb** funktionieren zusätzlich Abstufungen, die man z.B. durch den Befehl **„Alexa,
+mache das Licht blauer“** aktiviert.
 :::
 
