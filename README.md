@@ -8,8 +8,8 @@ actionLink: /introduction/
 footer: MIT Licensed | Copyright © 2020 - Steiger04
 ---
 ::: tip INFO
-Hier findest Du hoffentlich viele hilfreiche Informationen zum **milight-smart-light Adapter** und der zugehörigen
-**App**.
+Hier findest Du hoffentlich viele hilfreiche Informationen zum milight-smart-light Adapter und der zugehörigen
+App.
 :::
 
 
