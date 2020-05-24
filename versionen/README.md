@@ -33,7 +33,7 @@ Folgende Vorgehensweise beachten:
 
 1) Adapter v0.6.0 installieren. Die alten Instanzen müssen nicht gelöscht werden, die zuvor angelegten Zonen bleiben
 also erhalten.
-2) Dann im Adapter-Admin unter  dem Reiter [ZONEN](./#zonen) 
+2) Dann im Adapter-Admin unter  dem Reiter [ZONEN](../admin/#zonen) 
     + alle Zonen einmal deaktivieren, dann
     + speichern, dann
     + alle Zonen wieder aktivieren, dann
