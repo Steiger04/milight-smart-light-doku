@@ -15,12 +15,14 @@ module.exports = {
     logo: '/images/ioBroker.svg',
     lastUpdated: 'Letzte Aktualisierung',
     sidebar: [
+      ['/versionen/','Versionshinweise'],
       ['/admin/','Admin'],
       ['/app/','App'],
       ['/iot/','IoT - Alexa']
     ],
     sidebarDepth: 2,
     nav: [
+      { text: 'Versionshinweise', link: '/versionen/' },
       { text: 'Admin', link: '/admin/' },
       { text: 'App', link: '/app/' },
       { text: 'IoT - Alexa', link: '/iot/' }
