@@ -28,7 +28,7 @@ Effektmodus aktiv ist, kann durch wahl von on=true direkt die alte Farbe wieder 
 saturation, hue, rgb behalten immer ihre richtigen Abhängigkeiten). Diese Zusammenhänge lassen sich bei geöffnetem
 Objektbaum gut nachvollziehen.
 
-## Update auf v0.6.0
+### Update auf v0.6.0
 Folgende Vorgehensweise beachten:
 
 1) Adapter v0.6.0 installieren. Die alten Instanzen müssen nicht gelöscht werden, die zuvor angelegten Zonen bleiben
