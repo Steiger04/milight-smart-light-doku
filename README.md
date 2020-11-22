@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/msl-bridges-web-alpha.png
 heroText: Adapter Dokumentation ab v0.3.0
-tagline: Admin und App - aktuelle Version v0.6.0
+tagline: Admin und App - aktuelle Version v1.0.0
 actionText: Los geht's →
 actionLink: /introduction/
 footer: MIT Licensed | Copyright © 2020 - Steiger04

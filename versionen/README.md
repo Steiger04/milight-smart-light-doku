@@ -1,6 +1,20 @@
 # Versionen
 Hier gibt es Kurzhinweise zu den neunen Versionen.
 
+## v1.0.0
+
+### Was ist neu
+Das Admin-UI wurde komplett auf Vue und Quasar umgestellt. Funktional hat sich nichts geändert.
+
+### Update auf v1.0.0
++ Konfiguration der Instanz speichern
++ Instanz deaktivieren
++ Instanz löschen
++ Adapter löschen
++ Adapter v1.0.0 installieren
++ Instanz neu anlegen
++ Konfiguration importieren und speichern -> Instanz startet neu -> alle states sind wieder vorhanden
+
 ## v0.6.0
 
 ### Was ist neu
