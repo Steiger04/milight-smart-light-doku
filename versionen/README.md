@@ -11,7 +11,7 @@ Das Admin-UI wurde komplett auf Vue und Quasar umgestellt. Funktional hat sich n
 + Instanz deaktivieren
 + Instanz löschen
 + Adapter löschen
-+ Adapter v1.0.0 installieren
++ Adapter v1.0.1 installieren
 + Instanz neu anlegen
 + Konfiguration importieren und speichern -> Instanz startet neu -> alle states sind wieder vorhanden
 
