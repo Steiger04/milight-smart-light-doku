@@ -1,12 +1,12 @@
 # Versionen
 Hier gibt es Kurzhinweise zu den neunen Versionen.
 
-## v1.0.0
+## v1.0.1
 
 ### Was ist neu
 Das Admin-UI wurde komplett auf Vue und Quasar umgestellt. Funktional hat sich nichts geändert.
 
-### Update auf v1.0.0
+### Update auf v1.0.1
 + Konfiguration der Instanz speichern
 + Instanz deaktivieren
 + Instanz löschen
