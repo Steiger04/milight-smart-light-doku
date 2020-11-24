@@ -12,7 +12,6 @@ module.exports = {
     extractHeaders: [ 'h2', 'h3', 'h4' ]
   },
   themeConfig: {
-    displayAllHeaders: true,
     logo: '/images/ioBroker.svg',
     lastUpdated: 'Letzte Aktualisierung',
     sidebar: [
