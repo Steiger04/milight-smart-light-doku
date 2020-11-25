@@ -55,7 +55,9 @@ Alle Pflichtfelder sind rot markiert. Falsche Eingaben werden so weit es geht ab
 Eingaben korrekt sind (keine roten Markierungen mehr), ist eine Speicherung möglich. Dies gilt für alle Eingaben
 im milight-smart-light Admin!
 
-<img :src="$withBase('/images/adapterconfig-zonen.png')" class="my-img">
+<img :src="$withBase('/images/adapterconfig-zonen-1.png')" class="my-img">
+<br/><br/>
+<img :src="$withBase('/images/adapterconfig-zonen-2.png')" class="my-img">
 <br/><br/>
 <img :src="$withBase('/images/ibr-admin-object-tree-1.png')" class="my-img">
 
