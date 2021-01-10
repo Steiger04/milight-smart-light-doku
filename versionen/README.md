@@ -1,13 +1,22 @@
 # Versionen
 Hier gibt es Kurzhinweise zu den neunen Versionen.
 
+## v1.0.5
+
+### Was ist neu
++ Es wir nicht automatisch ein smartName für effectBrightness im iot-Adapter erstellt.
+
+### Update auf v1.0.5
++ Konfiguration der Instanzen speichern (zur Sicherheit)
++ Adapter v1.0.5 installieren. Alle Instanzen bleiben erhalten.
+
 ## v1.0.1
 
 ### Was ist neu
 Das Admin-UI wurde komplett auf Vue und Quasar umgestellt. Funktional hat sich nichts geändert.
 
 ### Update auf v1.0.1
-+ Konfiguration der Instanz speichern
++ Konfiguration der Instanzen speichern
 + Instanz deaktivieren
 + Instanz löschen
 + Adapter löschen
