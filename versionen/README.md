@@ -1,6 +1,15 @@
 # Versionen
 Hier gibt es Kurzhinweise zu den neunen Versionen.
 
+## v1.2.0
+
+### Was ist neu
++ Der Adapter kann jetzt auch im compact mode betrieben werden
+
+### Update auf v1.2.0
++ Konfiguration der Instanzen speichern (zur Sicherheit)
++ Adapter v1.1.1 installieren. Alle Instanzen bleiben erhalten.
+
 ## v1.0.5
 
 ### Was ist neu
