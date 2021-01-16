@@ -8,7 +8,7 @@ Hier gibt es Kurzhinweise zu den neunen Versionen.
 
 ### Update auf v1.2.0
 + Konfiguration der Instanzen speichern (zur Sicherheit)
-+ Adapter v1.1.1 installieren. Alle Instanzen bleiben erhalten.
++ Adapter v1.2.0 installieren. Alle Instanzen bleiben erhalten.
 
 ## v1.0.5
 
