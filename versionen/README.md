@@ -1,10 +1,23 @@
 # Versionen
 Hier gibt es Kurzhinweise zu den neunen Versionen.
 
+## v1.2.2
+
+### Was ist neu
++ Der Adapter wurde mit Node.js v16.x getestet und es wurden ein paar CSS-Apassungen gemacht.
+
+### Update auf v1.2.2
++ Konfiguration der Instanzen speichern (zur Sicherheit)
++ Adapter v1.2.2 installieren. Alle Instanzen bleiben erhalten.
+
 ## v1.2.1
 
 ### Was ist neu
 + Die App funktioniert jetzt mit socketio v3.1.4 und höher.
+
+### Update auf v1.2.1
++ Konfiguration der Instanzen speichern (zur Sicherheit)
++ Adapter v1.2.1 installieren. Alle Instanzen bleiben erhalten.
 
 ## v1.2.0
 
